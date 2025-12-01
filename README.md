@@ -1,4 +1,4 @@
-# FastAPI Todo API
+# FastAPI Todo 
 
 A simple and clean Todo REST API built using FastAPI and SQLAlchemy.
 This project demonstrates backend development fundamentals including API design, database modeling, and ORM usage.
